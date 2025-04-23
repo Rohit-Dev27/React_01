@@ -28,6 +28,9 @@ function App() {
       <p className="read-the-docs">
         For more details...
       </p>
+      <p className="read-the-docs">
+        All rights reserved
+      </p>
     </>
   )
 }
