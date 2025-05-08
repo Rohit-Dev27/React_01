@@ -29,7 +29,7 @@ function App() {
         For more details..
       </p>
       <p className="read-the-docs">
-        All rights reserved...
+        All rights reserved.
       </p>
     </>
   )
